@@ -1,0 +1,65 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\sal.h(2361,1): error C2144: syntax error: 'int' should be preceded by ';'
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\main.cpp(93,12): warning C4129: '/': unrecognized character escape sequence
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\main.cpp(98,12): warning C4129: '/': unrecognized character escape sequence
+  menu.cpp
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(37,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(56,585): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(57,567): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(58,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(63,588): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(64,568): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(70,543): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(71,575): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(77,473): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(78,460): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(84,400): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(85,388): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(86,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(151,58): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(151,34): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(152,41): warning C4244: 'argument': conversion from 'float' to 'int64_t', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(171,51): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(174,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(177,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(180,55): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(188,56): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(200,186): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(200,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(200,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(204,169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(204,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(208,172): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(208,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(213,201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(213,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(213,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(215,187): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(215,120): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(215,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(221,198): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(221,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(221,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(223,184): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(223,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(223,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(229,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(231,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(237,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(239,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(245,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(247,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(253,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(255,108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(261,114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(263,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(269,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(271,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ethan\source\repos\Cheats\Rogue_Old\Rogue\menu.cpp(438,62): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
